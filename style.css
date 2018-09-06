@@ -13,7 +13,7 @@ body {
   padding: 30px;
 }
 header{
-  margin-bottom: 10px;
+  margin: 10px 0;
 }
 nav {
   margin-bottom: 20px;
@@ -41,7 +41,7 @@ h3, p {
 }
 .right {
   float: right;
-  width: 460px;
+  width: 440px;
   height: 273px;
   padding-top: 12px;
   background-color: #ebebeb;
