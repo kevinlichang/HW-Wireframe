@@ -40,8 +40,8 @@ article {
 h3, p {
   background-color: #ebebeb;
   color: #777;
-  margin: 20px;
-  padding: 10px;
+  margin: 10px 20px;
+  padding: 15px;
 }
 .right {
   float: right;
